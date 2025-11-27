@@ -3,7 +3,7 @@
 <!-- Typing SVG -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2000&pause=1000&color=32FF83&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Mohamed+Yehia;Agentic+LLM+Systems+Developer;NLP+%26+ML+Engineer;Building+the+Future+with+AI+%F0%9F%9A%80;Head+of+AI+Team+at+GDG)](https://git.io/typing-svg)
 
-<img src="https://komarev.com/ghpvc/?username=24-mohamedyehia&label=Profile%20Views&color=32FF83&style=for-the-badge" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=24-mohamedyehia&label=Profile%20Views&color=000000&style=for-the-badge" alt="Profile Views" />
 <img src="https://img.shields.io/github/followers/24-mohamedyehia?label=Followers&style=for-the-badge&color=32FF83&labelColor=000000" alt="Followers" />
 
 </div>
