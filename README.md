@@ -134,5 +134,5 @@ I love building practical digital experiences that solve real-world problems. di
 </div>
 
 <p align="center">
-  <i>Designed and built with ❤️ by Mohamed Yehia</i>
+  <i>Designed and built by Mohamed Yehia</i>
 </p>
